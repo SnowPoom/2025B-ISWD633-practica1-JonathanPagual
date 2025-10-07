@@ -11,6 +11,7 @@ Para listar los archivos o elementos del directorio actual o especificado
 Expone más detalles sobre cada archivo o directorio en una línea. como permisos, enlaces, propietarios , etc.
 ### Usar el contenedor de jenkins creado previamente y ejecutar el comando ls con el argumento -l
 # COMPLETAR
+<br>docker exec jenkins ls -l<br>
 # COLOCAR UNA CAPTURA DE PANTALLA
 <img width="557" height="493" alt="image" src="https://github.com/user-attachments/assets/33c52e72-0550-4076-ba11-daae6c8a9b1c" />
 
